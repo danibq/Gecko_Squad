@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gecko_Squad.CSharp", "Gecko_Squad.CSharp.csproj", "{913DBA92-544A-6037-6F14-2321C10144E9}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D0A6A7FC-0E05-EB4D-D383-CAFA10166C8E}") = "Gecko_Squad", "Assembly-CSharp.csproj", "{5CC16717-ED4D-CEED-3C78-A77014EDC971}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{913DBA92-544A-6037-6F14-2321C10144E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{913DBA92-544A-6037-6F14-2321C10144E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{913DBA92-544A-6037-6F14-2321C10144E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{913DBA92-544A-6037-6F14-2321C10144E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC16717-ED4D-CEED-3C78-A77014EDC971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC16717-ED4D-CEED-3C78-A77014EDC971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC16717-ED4D-CEED-3C78-A77014EDC971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC16717-ED4D-CEED-3C78-A77014EDC971}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
