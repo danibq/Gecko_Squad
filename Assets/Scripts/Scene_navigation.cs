@@ -23,6 +23,11 @@ public class Scene_navigation : MonoBehaviour {
 		Application.LoadLevel ("Options_scene");
 	}
 
+    public void Characters ()
+    {
+        Application.LoadLevel("Player_Scene");
+    }
+
     
 
 }
